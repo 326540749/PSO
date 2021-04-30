@@ -21,6 +21,8 @@
 
 > PSO is initialized as a group of random particles (random solution). Then the optimal solution is found by iteration. In each iteration, particles update themselves by tracking two "extreme values" (pbest, gbest). After finding these two optimal values, the particle updates its speed and position through the following formula.
 
+![picture](/111.png)
+
 ***
 
 ![这里写图片描述](https://img-blog.csdn.net/20180803100337670?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2RhYWlrdWFpY2h1YW4=/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
